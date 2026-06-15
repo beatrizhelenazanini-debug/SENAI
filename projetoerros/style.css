@@ -1,3 +1,11 @@
 .conteiner{
- 
+ position: relative;
+}
+.icone-01 {
+    left: 65px;
+    top: 40px;
+}
+.icone-02 {
+    left: 520px;
+    
 }
